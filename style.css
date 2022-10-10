@@ -13,7 +13,7 @@ body {
     color: darkslategrey;
   }
   
-  .container {
+  .contenedor{
     margin-top: 30px;
     margin-bottom: 30px;
     width: 30%;
@@ -23,7 +23,7 @@ body {
     padding: 30px;
   }
   
-  .search {
+  .buscar {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
@@ -98,6 +98,6 @@ body {
     background-color: darkcyan;
   }
   
-  .empty {
+  .nttp {
     color: darkslategrey;
   }
